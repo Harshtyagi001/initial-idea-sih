@@ -28,7 +28,7 @@ export const Navbar = () => {
             fontSize: "1.5rem",
           }}
         >
-          DigiCerti
+          Sensicerti
         </a>
       </div>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

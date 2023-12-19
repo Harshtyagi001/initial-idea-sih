@@ -59,7 +59,7 @@ const Dashboard = () => {
               <h6 className="text-center text-uppercase"></h6>
               <h6 className="text-center text-uppercase">Welcome!!!     </h6>
               <h6 className="text-center text-uppercase">to    </h6>
-              <h6 className="text-center text-uppercase">Digilocker    </h6>
+              <h6 className="text-center text-uppercase">SensiCerti    </h6>
 
             </div>
           </div>

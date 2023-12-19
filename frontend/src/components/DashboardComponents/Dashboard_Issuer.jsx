@@ -29,7 +29,7 @@ const Dashboard = () => {
             <div className="card-body">
               <h3 className="text-info text-center ">Welcome</h3>
               <h5 className="text-info text-center ">to </h5>
-              <h4 className="text-info text-center ">DigiCerti </h4>
+              <h4 className="text-info text-center ">SensiCerti </h4>
             </div>
           </div>
         </div>

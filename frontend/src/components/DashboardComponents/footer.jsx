@@ -77,7 +77,7 @@ function Footer() {
       </ul>
       <p className="bg-dark cpwright text-center">
       <br />
-&copy; DigiCerti {year}
+&copy; SensiCerti {year}
 <br />
 <br />
 

@@ -80,7 +80,7 @@ function Login() {
           sm={4}
           md={7}
           sx={{
-            backgroundImage: "url(https://i.ibb.co/5KK2wF3/digi.png)",
+            backgroundImage: "url(https://i.ibb.co/R9QKwjx/Whats-App-Image-2023-12-19-at-11-59-04-b55cdac2.jpg)",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center",
           }}
